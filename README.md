@@ -1,3 +1,9 @@
+# NOTICE: DEPRECIATED
+
+This repository is **DEPRECIATED** in favor of the recent [ncclient](http://ncclient.grnet.gr/) version 0.4.1 that is now available in [PyPI](https://pypi.python.org/pypi/ncclient).  Please migrate your systems accordingly.
+
+The Juniper/ncclient repository will remain online until June 1st, 2014.  After that date, this repository will be **REMOVED**.
+
 ncclient: Python library for NETCONF clients
 --------------------------------------------
 
